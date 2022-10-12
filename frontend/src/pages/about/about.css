@@ -1,0 +1,30 @@
+.oop {
+  color: #f3a639;
+  font-size: 35px;
+  margin-top: 0px;
+  width: 1510px;
+  height: 700px;
+  text-align: center;
+  border: 3px solid transparent;
+  padding: 20px;
+  background: url("https://cdn.dribbble.com/users/43762/screenshots/1438974/media/2a87a13fdadaffa725137d051409f13a.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.content {
+  margin-top: 125px;
+  margin-left: 310px;
+  margin-right: 340px;
+  text-align: center;
+  justify-content: center;
+}
+.t {
+  margin-top: 40px;
+}
+.th {
+  margin-top: 40px;
+}
+.f {
+  margin-top: 40px;
+}

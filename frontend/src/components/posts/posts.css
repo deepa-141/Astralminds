@@ -1,0 +1,9 @@
+* body {
+  background-color: black;
+}
+.posts {
+  flex: 9;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+}
