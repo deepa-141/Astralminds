@@ -6,7 +6,7 @@ const About = () => {
     <div class="oop">
       <div class="content">
         <p>
-          Hi!My name is Preethi.Iam a space enthusiast and would love to hear
+          Hi!My name is Deepa.Iam a space enthusiast and would love to hear
           and share my thoughts and knowledge related to space,celestial
           entities,cosmic bodies and planetary objects
         </p>
